@@ -139,7 +139,11 @@ Built an interactive Power BI dashboard for business insights and storytelling.
 
 ### Dashboard Screenshot
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Executive_Summary.png)
+![Dashboard](images/Financial_And_Loan_Analysis.png)
+![Dashboard](images/Customer_Demogrphics.png)
+![Dashboard](images/Risk_Analysis.png)
+![Dashboard](images/Customer_Details.png)
 
 ---
 
