@@ -84,9 +84,13 @@ The dataset contains:
 ### 5. Machine Learning Modeling
 Implemented multiple machine learning algorithms:
 - Logistic Regression
-- Decision Tree
-- Random Forest
-- XGBoost
+- Decision Tree Classifier
+- Random Forest Classifier
+- Ada Boost Classifier
+- Gradient Boost Classifier
+- Support Vector Machine (SVC)
+- K-Nearest Neighbors Classifier(KNN)
+- XGBoosting Classifier
 
 ### 6. Model Evaluation
 Evaluated models using:
@@ -226,10 +230,10 @@ Arun
 ## Connect With Me
 
 ### LinkedIn
-(Add your LinkedIn profile link)
+linkedin.com/in/arun-p-c
 
 ### GitHub
-(Add your GitHub profile link)
+https://github.com/pcarun8
 
 ---
 
