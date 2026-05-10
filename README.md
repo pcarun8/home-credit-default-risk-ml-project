@@ -125,7 +125,7 @@ Built an interactive Power BI dashboard for business insights and storytelling.
 
 ### Confusion Matrix
 
-![Confusion Matrix](Users/arunpc/Documents/ML Images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
