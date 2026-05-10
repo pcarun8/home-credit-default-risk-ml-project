@@ -224,7 +224,7 @@ jupyter notebook
 ## Connect With Me
 
 ### LinkedIn
-linkedin.com/in/arun-p-c
+www.linkedin.com/in/arun-p-c
 
 ### GitHub
 https://github.com/pcarun8
