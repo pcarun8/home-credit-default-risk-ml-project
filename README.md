@@ -181,10 +181,20 @@ home-credit-default-risk/
 │   ├── dashboard.png
 │   ├── roc_curve.png
 │   ├── confusion_matrix.png
-│   └── feature_importance.png
+│   ├── feature_importance.png
+│   ├── Executive_Summary.png
+│   ├── Financial_And_Loan_Analysis.png
+│   ├── Customer_Demogrphics.png
+│   ├── Risk_Analysis.png
+│   └── Customer_Details.png
 │
 ├── dashboard/
 │   └── powerbi_dashboard.pbix
+│
+├── models/
+│   └── best_xgb_model.pkl
+│
+├── app.py
 │
 ├── requirements.txt
 │
