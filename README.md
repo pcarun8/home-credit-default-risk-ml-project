@@ -4,7 +4,7 @@
 
 This project focuses on predicting customer loan default risk using Machine Learning techniques and interactive Power BI dashboards. The goal is to help financial institutions identify high-risk customers and make better lending decisions.
 
---
+
 
 ## Business Problem
 
