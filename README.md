@@ -221,12 +221,6 @@ jupyter notebook
 
 ---
 
-## Author
-
-Arun
-
----
-
 ## Connect With Me
 
 ### LinkedIn
